@@ -1,0 +1,4 @@
+# Exclude packaged modules
+*.exe
+*.msi
+*.appx

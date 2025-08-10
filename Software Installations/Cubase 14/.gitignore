@@ -1,8 +1,5 @@
 ### Cubase install specific ###
-*.iso
-*.exe
-*.msi
-*.appx
+setup.xml
 
 # Cubase installation files
-/*/*
+**/Additional Content/*
