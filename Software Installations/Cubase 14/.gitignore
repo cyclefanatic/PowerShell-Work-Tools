@@ -1,3 +1,3 @@
 ### Cubase install specific ###
-*.wim
-*.iso
+/Software Installations/Cubase 14/*.wim
+/Software Installations/Cubase 14/*.iso
