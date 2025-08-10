@@ -1,8 +1,8 @@
 ### Cubase install specific ###
-*.wim
 *.iso
+*.exe
+*.msi
+*.appx
 
 # Cubase installation files
 **/*
-!/*.ps1
-!/*.txt
