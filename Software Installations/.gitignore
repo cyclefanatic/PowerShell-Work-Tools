@@ -1,6 +1,0 @@
-### Software Install ###
-# Exclude installation packages
-*.iso
-*.exe
-*.msi
-*.appx
