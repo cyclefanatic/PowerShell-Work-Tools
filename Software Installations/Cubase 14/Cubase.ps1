@@ -2,6 +2,11 @@
 	.SYNOPSIS
     Installs the main Cubase application after all the dependancies and extra applications are isntalls. It also imports VST sound files using Library Mnagaer.
 
+    Dependancies:
+    Steinberg Activation Manager
+    Steinberg Library Manager
+    Steinberg MediaBay
+
     
 	
 #>
