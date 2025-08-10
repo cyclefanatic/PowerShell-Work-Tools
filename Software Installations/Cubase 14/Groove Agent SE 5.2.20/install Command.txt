@@ -1,0 +1,2 @@
+Delete "Generic_Lower_Latency_ASIO_Driver_64bit.msi" if you do not need it installing.
+setup.exe --silent allusers

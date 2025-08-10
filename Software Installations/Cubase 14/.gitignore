@@ -1,4 +1,5 @@
 ### Cubase install specific ###
+*.vstsound
 setup.xml
 
 # Cubase installation files
